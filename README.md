@@ -1,6 +1,9 @@
 # Big Brother Bot
 ## Automod bot for !1984@sopuli.xyz
 
+This bot uses the [lemmy-bot](https://github.com/SleeplessOne1917/lemmy-bot) library, by SleeplessOne1917.
+Go give them a star!
+
 ### Setup
 Make sure you have node and npm. I have been using node 18.9.1.
 
