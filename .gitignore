@@ -1,0 +1,6 @@
+working/
+node_modules/
+*.sqlite3
+.env
+.directory
+*.kate-swp
